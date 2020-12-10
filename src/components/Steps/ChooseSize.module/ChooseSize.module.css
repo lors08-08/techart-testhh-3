@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  align-items: center;
+  height: 34px;
+}
+.box input {
+  height: 25px;
+  width: 100px;
+}
+.box div {
+  padding: 5px;
+}

@@ -1,0 +1,29 @@
+.title {
+  font-size: 21px;
+  font-weight: bold;
+}
+.stepCount {
+  font-size: 12px;
+  color: #a2a0a0;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.selector {
+  border: 1px solid gray;
+  width: 380px;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+.selectorTitle {
+  font-weight: 500;
+  color: #2f25bf;
+  background-color: #eaeaea;
+  line-height: 40px;
+}
+.options {
+  width: fit-content;
+}
+.options li {
+  text-align: left;
+}

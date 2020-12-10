@@ -1,0 +1,28 @@
+.buttons {
+  margin-top: 10px;
+}
+.buttons button {
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-weight: 600;
+  width: 100px;
+  cursor: pointer;
+}
+.buttons button:focus {
+ outline: none;
+}
+.cancel {
+  margin-right: 3px;
+}
+.next {
+  margin-left: 3px;
+}
+.newCalc {
+  width: 140px !important;
+  padding: 10px !important;
+  cursor: pointer;
+}
+.newCalc:focus {
+  outline: none;
+}
